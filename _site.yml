@@ -5,8 +5,6 @@ navbar:
   left:
   - text: "Home"
     href: index.html
-  - text: "AmericanBadger"
-    href: AmericanBadger2018.html
   - text: "AmericanBlackBear"
     href: AmericanBlackBear2018.html
   - text: "AmericanMarten"
