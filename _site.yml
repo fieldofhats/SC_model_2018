@@ -9,12 +9,12 @@ navbar:
     href: AmericanBlackBear2018.html
   - text: "AmericanMarten"
     href: AmericanMarten2018.html
-  - text: "Bobcat"
-    href: Bobcat2018.html
   - text: "Coyote"
     href: Coyote2018.html
   - text: "LongTailedWeasel"
     href: LongTailedWeasel2018.html
+  - text: "RedFox"
+    href: RedFox2018.html    
   - text: "WhiteTailedJackrabbit"
     href: WhiteTailedJackrabbit2018.html
 output:
